@@ -1,8 +1,8 @@
 Goals for the Pig Latin project:
 
-- take first consonant and move it to the end (success)
-- take consonant cluster and move it to the end (success)
-- take entire sentence and apply pig latin to it (success)
+- take first consonant and move it to the end (success - JUN5)
+- take consonant cluster and move it to the end (success - JUN5)
+- take entire sentence and apply pig latin to it (success - JUN6)
 - ignore punctuation
 - (reach goal) make database of words with their IPA to notate mismatch between pronunciation/spelling
   - e.g user input: "this is an herb"
