@@ -5,7 +5,7 @@ Goals for the Pig Latin project:
 - take entire sentence and apply pig latin to it (success)
 - ignore punctuation
 - (reach goal) make database of words with their IPA to notate mismatch between pronunciation/spelling
-    -e.g user input: "this is an herb"
+      - e.g user input: "this is an herb"
       - check database (SQL?)
       - note that herb has two IPAS: Erb and herb
       - Ask user: "Which of these pronunciations is closer to you? 1. erb 2. herb"
